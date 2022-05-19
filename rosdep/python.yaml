@@ -6393,7 +6393,7 @@ python3-emoji:
   fedora: [python3-emoji]
   opensuse: [python3-emoji]
   rhel:
-    '*': [python-emoji]
+    '*': [python3-emoji]
     '7': null
   ubuntu:
     '*': [python3-emoji]
